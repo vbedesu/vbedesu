@@ -7,6 +7,6 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="[https://www.youtube.com/channel/UCmUnc9TVhGPU2EBYuOnL1zA](https://www.youtube.com/c/underpicked)" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="https://www.youtube.com/channel/UCmUnc9TVhGPU2EBYuOnL1zA" height="30" width="40" /></a>
-<a href="https://matrix.to/#/@VBE:matrix.org" target="blank"><img align="center" src="https://element.io/images/logo-mark-primary.svg" alt="[https://www.youtube.com/channel/ucmunc9tvhgpu2ebyuonl1za](https://www.youtube.com/c/underpicked)" height="30" width="30" /></a>
+<a href="https://www.youtube.com/c/underpicked" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="https://www.youtube.com/c/underpicked" height="30" width="40" /></a>
+<a href="https://matrix.to/#/@VBE:matrix.org" target="blank"><img align="center" src="https://element.io/images/logo-mark-primary.svg" alt="https://matrix.to/#/@VBE:matrix.org" height="30" width="30" /></a>
 </p>
