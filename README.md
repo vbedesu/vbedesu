@@ -1,4 +1,4 @@
-### Hi I'm vbedesu/cubo and I probably don't use most of the software shown here.
+### Hi I'm garbage and I probably don't use most of the software shown here.
 
 <h3 align="left">Languages and Tools:</h3>
 <a href="https://gentoo.org/"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/48/Gentoo_Linux_logo_matte.svg/1956px-Gentoo_Linux_logo_matte.svg.png" width="40" height="40"></a>
